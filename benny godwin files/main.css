@@ -1,0 +1,15 @@
+body {
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:18px;
+  color:#FFFFFF;
+  padding:0 10px;
+  background-color: #131313;
+  font-family: 'Avenir', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+h1,h2,h3{
+  line-height:1.2
+}
+.link { color: #ADD8E6; } /* CSS link color (red) */
